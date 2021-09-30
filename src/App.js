@@ -72,5 +72,6 @@ class App extends Component {
     );
   }
 }
+App;
 
 export default App;
