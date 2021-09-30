@@ -1,0 +1,48 @@
+.loginField {
+  align-items: center;
+  background-color: white;
+  border: solid;
+  border-color: white;
+  margin: 10%;
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 10%;
+
+}
+
+.loginInput {
+  background-color: rgb(243, 227, 227);
+  border: solid;
+  border-color: white;
+}
+
+input {
+  padding: auto;
+  font-size: 15pt;
+  height: 50px;
+  width: 350px;
+  text-indent: 5%;
+  /* font-size: small; */
+  /* margin: 10%; */
+  /* padding: 0%; */
+}
+
+.buttonSubmit {
+  border: solid;
+  border-color: white;
+  background-color: rgb(14, 167, 14);
+  color: white;
+  height: 60px;
+  width: 360px;
+
+}
+
+.loginText {
+  color:grey;
+}
+
+.loginCreate {
+  color:rgb(107, 170, 14);
+  text-decoration: none;
+
+}
