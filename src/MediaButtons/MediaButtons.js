@@ -5,13 +5,14 @@ import './MediaButtons.css';
 
 class MediaButtons extends Component {
   render() {
-    return (
+    return (<div className="panel">
       <Panel backgroundColor="blue">
         <Button text="Rewind" onClick={() => {}} />
         <Button text="Forward" onClick={() => {}} />
         <Button text="Play" onClick={() => {}} color="green" size="large" />
         <Button text="Stop" onClick={() => {}} color="red" size="large" />
       </Panel>
+      </div>
     );
   }
 }
